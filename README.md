@@ -16,6 +16,6 @@
 ### [Varen DAO](https://varen.finance)
   - [VarenX](https://varenx.com)
   - [VarenX Explorer](https://explorer.varenx.com)
-  - [Varen GasHopper](https://gashopper.io)
+  - [GasHopper](https://gashopper.io)
 
 ### [Archly DAO](https://archly.fi)
