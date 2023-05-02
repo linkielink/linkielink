@@ -6,8 +6,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=linkielink&count_private=true&show_icons=true&include_all_commits=true)
 
-![Profile last updated](https://img.shields.io/github/last-commit/linkielink/linkielink/main?label=Last%20updated&style=flat-square)
-
 ## Contributions / Protocols / Projects
 ### [Mars Protocol](https://marsprotocol.io)
   - [Osmosis Outpost](https://osmosis.marsprotocol.io)
