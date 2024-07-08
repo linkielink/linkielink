@@ -6,12 +6,4 @@
 
 ## Contributions / Protocols / Projects
 ### [Mars Protocol](https://marsprotocol.io)
-  - [Osmosis Outpost](https://osmosis.marsprotocol.io)
-  - [Mars-Hub Block Explorer](https://explorer.marsprotocol.io)
-
-### [Varen DAO](https://varen.finance)
-  - [VarenX](https://varenx.com)
-  - [VarenX Explorer](https://explorer.varenx.com)
-  - [GasHopper](https://gashopper.io)
-
-### [Archly DAO](https://archly.fi)
+  - [Mars v2 Outpost](https://app.marsprotocol.io)
