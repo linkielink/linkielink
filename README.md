@@ -7,3 +7,5 @@
 ## Contributions / Protocols / Projects
 ### [Mars Protocol](https://marsprotocol.io)
   - [Mars v2 Outpost](https://app.marsprotocol.io)
+
+### [IBC Gangsters](https://ibcgangsters.io)
