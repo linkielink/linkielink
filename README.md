@@ -9,3 +9,6 @@
   - [Mars v2 Outpost](https://app.marsprotocol.io)
 
 ### [IBC Gangsters](https://ibcgangsters.io)
+
+### Tooling
+  - [Image compressor and webp converter](https://github.com/linkielink/images-compressor)
